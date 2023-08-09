@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm install-both` - my version of a build.sh script
+### `npm run install-both` - my version of a build.sh script
 
 ### `npm run dev` - my version of a run.sh script
 
