@@ -4,16 +4,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can set up the project in two ways:
 
-### `npm run install-both` - my version of a build.sh script
+### Bash
 
-### `npm run dev` - my version of a run.sh script
+1. `./build.sh` - installs dependencies
+2. `./run.sh` - equal to `npm run dev`
 
-Runs the app in the development mode.
+### npm
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. `npm run install-both` - installs dependencies
+2. `npm run dev` - equal to `./run.sh`
 
 ## How it works
 
@@ -83,17 +84,15 @@ I am not sure. This isn't an area I currently know a whole lot about.
 
 [React Bootstrap - Cards](https://react-bootstrap.netlify.app/docs/components/cards/)
 
-[ChatGPT Prompt 1](https://chat.openai.com/share/464bdfc6-6550-4a3d-acac-31f94a1e906b)
+[ChatGPT Prompt 1 - Fetching XML, misc.](https://chat.openai.com/share/464bdfc6-6550-4a3d-acac-31f94a1e906b)
 
-[ChatGPT Prompt 2](https://chat.openai.com/share/7c0a05db-9bea-4e52-a154-81d9471cf040)
+[ChatGPT Prompt 2 - Background fetching, misc.](https://chat.openai.com/share/192339fd-109d-4118-bd0e-b0a512092394)
 
-[ChatGPT Prompt 3](https://chat.openai.com/share/192339fd-109d-4118-bd0e-b0a512092394)
+[ChatGPT Prompt 3 - Filtering, misc.](https://chat.openai.com/share/3b86bac6-b615-4bf5-8ac9-6c361028683f)
 
-[ChatGPT Prompt 4](https://chat.openai.com/share/3b86bac6-b615-4bf5-8ac9-6c361028683f)
+[ChatGPT Prompt 4 - React Bootstrap](https://chat.openai.com/share/81313b8f-77d7-449b-9090-d4d311db6727)
 
-[ChatGPT Prompt 5](https://chat.openai.com/share/3b86bac6-b615-4bf5-8ac9-6c361028683f)
-
-[ChatGPT Prompt 6](https://chat.openai.com/share/81313b8f-77d7-449b-9090-d4d311db6727)
+[ChatGPT Prompt 5 - Bash](https://chat.openai.com/share/f531b640-bc49-4395-9376-9deff747db32)
 
 ## How long did I spend on this exercise?
 
@@ -116,6 +115,8 @@ I would spend more time working on the UI. I like to go to [awwwards.com](http:/
 \+ Another critique I have of my code is that it could be more custom and more accessible.
 
 \++ I have full stack experience mostly only limited to personal projets and school, so I imagine in a professional environment there are a slew of best practices and techniques/patterns I am missing out on. In short, my critique is that I don't know what I don't know. That and there aren't any tests.
+
+\+++ Not knowing Bash definitely didn't do me any favors. I feel like I just wrote the scripts to accomodate for the requirement, but it basically just does invokes the npm run scripts.
 
 ## How can I change my system to be updated to support simple keyword searches?
 
