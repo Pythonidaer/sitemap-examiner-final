@@ -42,6 +42,8 @@ I am not sure. This isn't an area I currently know a whole lot about.
 
 [xmldom](https://www.npmjs.com/package/@xmldom/xmldom)
 
+[mdn docs, DOMParser](https://developer.mozilla.org/en-US/docs/Web/API/DOMParser)
+
 [cheerio](https://www.npmjs.com/package/cheerio)
 
 [Stack Overflow, re: CORS, Node](https://stackoverflow.com/questions/57009371/access-to-xmlhttprequest-at-from-origin-localhost3000-has-been-blocked)
